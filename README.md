@@ -1,4 +1,4 @@
-ASP CSSToJSON  by SitieGrafica
+ASP CSSToJSON 
 =============
 
 This utility Convert CSS to JSON and vice-versa
